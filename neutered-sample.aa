@@ -1,0 +1,2 @@
+profile "snap.test-snapd-policy-app-consumer.bluez" (attach_disconnected) { }
+
